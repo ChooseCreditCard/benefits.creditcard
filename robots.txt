@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://benefits.creditcard/sitemap.xml
